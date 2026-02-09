@@ -310,7 +310,7 @@ NIVISION is available as a custom app in Make.com:
 
 ## 📞 Support
 
-- **Email:** support@nivision.co.il
+- **Email:** info@nivision.co.il
 - **Website:** [nivision.co.il](https://nivision.co.il)
 - **Company:** NIVISION DATA LTD
 
@@ -328,9 +328,3 @@ NIVISION is available as a custom app in Make.com:
 
 **Last Updated:** February 2026
 ```
-
-## ✅ סיימת! עכשיו:
-
-**העתק את הקישור:**
-```
-https://github.com/YOUR_USERNAME/nivision-api-docs
