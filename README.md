@@ -329,44 +329,6 @@ NIVISION is available as a custom app in Make.com:
 **Last Updated:** February 2026
 ```
 
----
-
-## 💾 שלב 3: שמור את השינויים
-
-### לחץ על **"Commit changes"** (הכפתור הירוק)
-
-### במסך שנפתח:
-- **Commit message:** `Add API documentation`
-- לחץ **"Commit changes"**
-
----
-
-## 🌐 שלב 4: קבל את הקישור לדוקומנטציה
-
-### הקישור שלך יהיה:
-```
-https://github.com/YOUR_USERNAME/nivision-api-docs
-```
-
-**תחליף `YOUR_USERNAME` בשם המשתמש שלך ב-GitHub**
-
----
-
-## ✨ בונוס: הפעל GitHub Pages (אופציונלי)
-
-אם רוצה URL יפה יותר:
-
-### 1️⃣ Settings → Pages
-### 2️⃣ Source: Deploy from a branch
-### 3️⃣ Branch: main → / (root) → Save
-
-**אז תקבל:**
-```
-https://YOUR_USERNAME.github.io/nivision-api-docs/
-```
-
----
-
 ## ✅ סיימת! עכשיו:
 
 **העתק את הקישור:**
